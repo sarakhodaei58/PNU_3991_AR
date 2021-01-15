@@ -2,7 +2,7 @@
 ---------
 <div dir="rtl">
 ### سکینه خدائی
- >  ارزیابی ها 
+  ارزیابی ها 
  ## بخش عمومی
 -[ارزیابی رزومه و انگیزه نامه]https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SK_CV_CheckList_AR_3991.pdf
 
