@@ -5,7 +5,8 @@
  <br> ارزیابی ها 
  <br> بخش عمومی
 </p>
- 
+
+##  بخش ارزیابی
  
 -[ارزیابی رزومه و انگیزه نامه]
 
@@ -19,7 +20,7 @@
 -[ارزیابی درس الگوریتم پیشرفته ]
 (https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/AdvancedAlgorithm/SKH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
-
+## بخش فعالیت های عمومی
 
 - [github](https://github.com/sarakhodaei58)
 - [PNU_3991_AR](https://sarakhodaei58.github.io/PNU_3991_AR/)
@@ -30,7 +31,8 @@
   
 ------------------
  <div dir='rtl'>
-
+ 
+## بخش فعالیت های اختصاصی
 # تمرین ها
 1. [G-A01]
     1. [Ford-Fulkerson](https://www.aparat.com/v/3qHCy)
