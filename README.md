@@ -1,5 +1,5 @@
 # PNU_3991_AR
----------
+
 <div dir="rtl">
 
 ## سکینه خدائی
@@ -27,7 +27,7 @@
 - [javascript Certificate](https://sarakhodaei58.github.io/certificate/)
 - [jlord patchwork](https://raw.githubusercontent.com/sarakhodaei58/PNU_3991_AR/main/patchwork.jpg)
   
-------------------
+
  <div dir='rtl'>
  
 ## بخش فعالیت های اختصاصی
@@ -54,7 +54,6 @@
 [1115024_71_166 پایگاه داده پیشرفته ]
 <br>
 
---------------
 
 ## روز و ساعت ارائه دروس
 
@@ -79,5 +78,5 @@
   </tr>
 </table>
 
---------------
+
 </div>
