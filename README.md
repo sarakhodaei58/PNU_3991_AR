@@ -10,6 +10,11 @@
 -[خلاصه ارزیابی بخش عمومی]https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SKH_GeneralSection_CheckList_AR_3991.pdf
 
 
+## ارزیابی دروس کارشناسی ارشد
+-[ارزیابی درس الگوریتم پیشرفته ](https://github.com/maziarkeyhani/PNU_3991_AR/blob/main/AdvancedAlgorithm/NM_AdvancedAlgorithms_CheckList_AR_3991.pdf)
+
+
+
 - [github](https://github.com/sarakhodaei58)
 - [PNU_3991_AR](https://sarakhodaei58.github.io/PNU_3991_AR/)
 - [resume](https://yun.ir/0yi4eb)
