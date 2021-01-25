@@ -6,16 +6,16 @@
 
 ##  بخش ارزیابی
  
--[ارزیابی رزومه و انگیزه نامه]
+-  [ارزیابی رزومه و انگیزه نامه]
 
 (https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SKH_CV_CheckList_AR_3991.pdf)
  
 
--[خلاصه ارزیابی بخش عمومی]
+-  [خلاصه ارزیابی بخش عمومی]
 (https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/General/SKH_GeneralSection_CheckList_AR_3991.pdf)
 
 
--[ارزیابی درس الگوریتم پیشرفته ]
+-  [ارزیابی درس الگوریتم پیشرفته ]
 (https://github.com/sarakhodaei58/PNU_3991_AR/blob/main/AdvancedAlgorithm/SKH_AdvancedAlgorithms_CheckList_AR_3991.pdf)
 
 ## بخش فعالیت های عمومی
